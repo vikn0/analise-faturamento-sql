@@ -18,6 +18,3 @@ O script principal está dividido em 6 etapas estratégicas:
 5. **Inteligência de Tempo (MoM):** Utilização de `CTE` e da função de janela `LAG` para calcular a variação percentual de crescimento mês a mês de forma dinâmica.
 6. **Auditoria de Metas:** Uso de `INNER JOIN` para cruzar tabelas de vendas e cadastro de gerentes, avaliando de forma condicional se a meta mensal de janeiro/2024 foi atingida.
 
-## 📂 Como Utilizar
-1. Faça o download do arquivo `script_analise_faturamento.sql`.
-2. Execute o script no seu ambiente do SQL Server Management Studio (SSMS).
